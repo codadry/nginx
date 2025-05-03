@@ -35,7 +35,7 @@ DB_MYSQL_USER=nginx
 DB_MYSQL_PASSWORD=tu_password_segura
 DB_MYSQL_NAME=nginx_db
 DB_MYSQL_ROOT_PASSWORD=otra_password_segura
-
+```
 
 ### 2. Asegúrate de tener creada la red externa:
 
