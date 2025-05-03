@@ -59,7 +59,8 @@ docker-compose up -d
 
 ---
 
-## ✅ Credenciales por defecto 👉 [Guía oficial de instalación](https://nginxproxymanager.com/setup/)
+## ✅ Credenciales por defecto 👉 <a href="https://nginxproxymanager.com/setup/#default-administrator-user" target="_blank" rel="noopener noreferrer">Guía oficial de instalación</a>
+
 
 ```plaintext
 Correo:    admin@example.com
